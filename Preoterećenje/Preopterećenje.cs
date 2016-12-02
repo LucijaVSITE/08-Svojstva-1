@@ -7,8 +7,6 @@ namespace Vsite.CSharp
     {
         // TODO: Zadati svojstvo VoidSvojstvo tipa void i pokušati prevesti kod.
 
-
-
         // svojstvo se ne može preopterećivati
         public double PreopterećenoSvojstvo
         {
@@ -16,9 +14,6 @@ namespace Vsite.CSharp
         }
 
         // TODO: Dodati novo svojstvo PreopterećenoSvojstvo koje će biti tipa int.
-
-
-
 
         static void Main(string[] args)
         {
